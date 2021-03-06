@@ -17,3 +17,5 @@ We are trying to build a model which takes around 200+ financial indicators of a
 ### Business Impact of this project
 Investors could use this tool to make informed investment decisions with ease. This would specially empower the small investor which can’t afford extensive research.
 
+### DATASET
+Dataset contains 200+ financial indicator features, that are commonly found in the 10-K filings each publicly traded company releases yearly, for a lot of US stocks (on average, 4000 stocks are listed in each year dataset). We have five year of data (2014-2018). So, a total of 22,000 rows approx. Since we are predicting for 2 major classifications the consecutive years, we have merged the available 5 years data into a single data frame.
