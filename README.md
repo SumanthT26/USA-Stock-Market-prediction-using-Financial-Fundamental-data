@@ -25,4 +25,6 @@ Success of this model depends on 2 major classifications that are said to be cla
 ### EDA
 Univariate, Bivariate and Multivariate Analysis were performed to bring out important aspects of data into focus for further analysis. Some of the highlights from EDA are listed below.
 
+!https://github.com/SumanthT26/USA-Stock-Market-prediction-using-Financial-Fundamental-data/blob/main/images/counter_plot_of_class.PNG
+
 
