@@ -24,4 +24,5 @@ Success of this model depends on 2 major classifications that are said to be cla
 
 ### EDA
 Univariate, Bivariate and Multivariate Analysis were performed to bring out important aspects of data into focus for further analysis. Some of the highlights from EDA are listed below.
-![counter_plot_of_class](https://user-images.githubusercontent.com/62056802/110202509-1bfe3600-7e8f-11eb-9288-5a1c17fb6cf7.PNG)
+
+
