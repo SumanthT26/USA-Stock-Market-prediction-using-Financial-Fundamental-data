@@ -27,5 +27,18 @@ Univariate, Bivariate and Multivariate Analysis were performed to bring out impo
 
 ![counter_plot_of_class](https://user-images.githubusercontent.com/62056802/110202551-62ec2b80-7e8f-11eb-875e-dfcb0cfb3746.PNG)
 
+![Median net income per sector](https://user-images.githubusercontent.com/62056802/110202570-929b3380-7e8f-11eb-8f78-38285d5c7dd1.PNG)
+
+#### Inference
+a. We can infer that median net income per share of utilities and financial sectors are higher than the others.
+b. Energy and Technology have lower net income per share compared to other sectors.
+c. Healthcare has negative net income per share
+
+
+![Sector wise market capital of stocks](https://user-images.githubusercontent.com/62056802/110202597-d0985780-7e8f-11eb-8537-ab7577ed5bb0.PNG)
+
+#### Inference
+As per the graph we can see that Healthcare and financial services companies seem to have a high market capital and sectors like basic material, communication services, consumer defense, real estate, utilities, companies with low market capital are more in number.
+
 
 
