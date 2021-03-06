@@ -1,4 +1,3 @@
-![ANALYSING COMPANIES HAVING HIGH EBITDA MARGIN](https://user-images.githubusercontent.com/62056802/110202640-2836c300-7e90-11eb-85ae-42f2f658e346.png)
 # USA-Stock-Market-prediction-using-Financial-Fundamental-data
 Repository contains USA Stock Market prediction using Financial Fundamental data which involved EDA, Statistical Analysis and Model Building
 ## Business problem we are trying to solve
@@ -47,3 +46,24 @@ As per the graph we can see that Healthcare and financial services companies see
 #### Inference
 a. The financial sector has the most number of companies whose stocks are worth buying.
 b. Most of the healthcare company stocks are not worth buying.
+
+### Evaluation Metric
+ROC AUC-Score and Precission-score were chosen as the metric for the models.
+
+### Models
+Here we are trying Linear and tree-based models in the conviction which splits the target variables at its best. Since the metric of interest for the problem statement is AUC, from the below output we can conclude that tree based generally outperforms linear based models hence we would be using tree-based model for our further analysis.
+
+Logistic Regression PRECISSION SCORE: 0.55
+Decission Tree PRECISSION SCORE 0.66
+Random Forest ROC AUC SCORE: 0.61
+XG BOOST 0.65
+Decission Tree with upsampling PRECISSION SCORE 0.96 and ROC_AUC SCORE 0.95
+Random Forest with upsampling PRECISSION SCORE 0.96 and ROC_AUC SCORE 0.95
+Bias and variance error for Random Forest model are :
+Bias error:  0.1250025564986195
+variance error 0.18070672822303685
+
+### FINAL COMMENTS
+Understanding the data set via data visualization provided a better inference over the attributes and the structure of the data. The inference provided helped to make decisions over considering Logistic Regression as the base model. The fact that the Base model failed to perform efficiently was subjected due to the asymmetric nature of the data set. Which was later rectified and redesigned in the final model Random Forest with the help of SMOTE and PCA.
+
+Thus, making the model more efficient in solving the problem statement and providing investors a better knowledge of stocks that could provide good returns.
