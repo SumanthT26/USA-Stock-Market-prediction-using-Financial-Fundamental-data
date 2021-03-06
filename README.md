@@ -1,3 +1,4 @@
+![ANALYSING COMPANIES HAVING HIGH EBITDA MARGIN](https://user-images.githubusercontent.com/62056802/110202640-2836c300-7e90-11eb-85ae-42f2f658e346.png)
 # USA-Stock-Market-prediction-using-Financial-Fundamental-data
 Repository contains USA Stock Market prediction using Financial Fundamental data which involved EDA, Statistical Analysis and Model Building
 ## Business problem we are trying to solve
@@ -41,4 +42,8 @@ c. Healthcare has negative net income per share
 As per the graph we can see that Healthcare and financial services companies seem to have a high market capital and sectors like basic material, communication services, consumer defense, real estate, utilities, companies with low market capital are more in number.
 
 
+![ANALYSING COMPANIES HAVING HIGH EBITDA MARGIN](https://user-images.githubusercontent.com/62056802/110202653-3389ee80-7e90-11eb-9289-f8764dd07544.png)
 
+#### Inference
+a. The financial sector has the most number of companies whose stocks are worth buying.
+b. Most of the healthcare company stocks are not worth buying.
