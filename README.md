@@ -54,13 +54,21 @@ ROC AUC-Score and Precission-score were chosen as the metric for the models.
 Here we are trying Linear and tree-based models in the conviction which splits the target variables at its best. Since the metric of interest for the problem statement is AUC, from the below output we can conclude that tree based generally outperforms linear based models hence we would be using tree-based model for our further analysis.
 
 Logistic Regression PRECISSION SCORE: 0.55
+
 Decission Tree PRECISSION SCORE 0.66
+
 Random Forest ROC AUC SCORE: 0.61
+
 XG BOOST 0.65
+
 Decission Tree with upsampling PRECISSION SCORE 0.96 and ROC_AUC SCORE 0.95
+
 Random Forest with upsampling PRECISSION SCORE 0.96 and ROC_AUC SCORE 0.95
+
 Bias and variance error for Random Forest model are :
+
 Bias error:  0.1250025564986195
+
 variance error 0.18070672822303685
 
 ### FINAL COMMENTS
