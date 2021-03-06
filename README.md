@@ -75,3 +75,7 @@ variance error 0.18070672822303685
 Understanding the data set via data visualization provided a better inference over the attributes and the structure of the data. The inference provided helped to make decisions over considering Logistic Regression as the base model. The fact that the Base model failed to perform efficiently was subjected due to the asymmetric nature of the data set. Which was later rectified and redesigned in the final model Random Forest with the help of SMOTE and PCA.
 
 Thus, making the model more efficient in solving the problem statement and providing investors a better knowledge of stocks that could provide good returns.
+
+### References
+
+https://www.kaggle.com/cnic92/200-financial-indicators-of-us-stocks-20142018
