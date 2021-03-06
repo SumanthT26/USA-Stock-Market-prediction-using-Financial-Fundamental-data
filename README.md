@@ -21,3 +21,6 @@ Investors could use this tool to make informed investment decisions with ease. T
 Dataset contains 200+ financial indicator features, that are commonly found in the 10-K filings each publicly traded company releases yearly, for a lot of US stocks (on average, 4000 stocks are listed in each year dataset). We have five year of data (2014-2018). So, a total of 22,000 rows approx. Since we are predicting for 2 major classifications the consecutive years, we have merged the available 5 years data into a single data frame.
 
 Success of this model depends on 2 major classifications that are said to be class1 and class 0.For each stock, if the class = 1. From a trading perspective, the 1 identifies  those stocks that an hypothetical trader should BUY at the start of the year and sell at the end of the year for a profit. For each stock, if the class = 0. From a trading perspective, the 0 identifies those stocks that an hypothetical trader should NOT BUY, since their value will decrease, meaning a loss of capital
+
+### EDA
+Univariate, Bivariate and Multivariate Analysis were performed to bring out important aspects of data into focus for further analysis. Some of the highlights from EDA are listed below.
